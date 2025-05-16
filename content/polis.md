@@ -24,11 +24,9 @@ Le *Polis* possono diventare *Navi*, e gli edifici componenti di queste navi. I 
 
 ## Risorse
 
-### Materiali
-Ogni Polis produce un singolo tipo di risorsa materiale. Ogni 10 minuti la **Banca** assegna alla squadra un numero variabile di punti materiale, generalmente 5, che può essere regolato per velocizzare o rallentare il gioco. I materiali generati in **Banca** rimangono in banca fino a quando un membro della Polis non viene a ritirarli. L'interno della **Banca** è considerato luogo sicuro e non si può essere sfidati.
-
-### Denaro
-Il **Denaro** è una particolare tipologia di risorsa che può essere acquisita dai giocatori risolvendo delle **Quest** offerte dagli animatori. Il **Denaro** permette l'acquisto diretto in **Banca** di tutte le altre tipologie di risorse. Offre una via alternativa oltre al conflitto. Il costo delle risorse in denaro può essere variabile, ma se si preferisce un'opzione più semplice si può fissare il costo a 5 denari per 1 risorsa qualsiasi.
+| **Materiali** | **Denaro** |
+| --- | --- |
+| Ogni Polis produce un singolo tipo di risorsa materiale. Ogni 10 minuti la **Banca** assegna alla squadra un numero variabile di punti materiale, generalmente 5, che può essere regolato per velocizzare o rallentare il gioco. I materiali generati in **Banca** rimangono in banca fino a quando un membro della Polis non viene a ritirarli. L'interno della **Banca** è considerato luogo sicuro e non si può essere sfidati. | Il **Denaro** è una particolare tipologia di risorsa che può essere acquisita dai giocatori risolvendo delle **Quest** offerte dagli animatori. Il **Denaro** permette l'acquisto diretto in **Banca** di tutte le altre tipologie di risorse. Offre una via alternativa oltre al conflitto. Il costo delle risorse in denaro può essere variabile, ma se si preferisce un'opzione più semplice si può fissare il costo a 5 denari per 1 risorsa qualsiasi. |
 
 ## Quest
 Gli animatori viaggiano per l'area di gioco e offrono delle *Quest* (minigiochi) ai ragazzi. In caso di vittoria questi ricevono del denaro che possono depositare nella loro Polis, verrà sfruttato dal *Mercante* di squadra. Le *Quest* possono essere di qualsiasi tipo, sfide fra giocatori, indovinelli, prove fisiche. Si può anche premiare i giocatori direttamente con materiali, per esempio una prova di forza di lancio del tronco può avere come ricompensa del legno invece del denaro.
